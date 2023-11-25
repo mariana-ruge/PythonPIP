@@ -1,0 +1,1 @@
+print("Configurado exitosamente")
