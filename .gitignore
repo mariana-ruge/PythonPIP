@@ -102,7 +102,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
-
+*.png
 # Translations
 *.mo
 *.pot
