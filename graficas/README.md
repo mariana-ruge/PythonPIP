@@ -15,6 +15,7 @@ Para la parte de APP debes hacer lo siguiente
 En la terminal ejecutas lo siguiente
 
   	cd app
+   	python3 -m venv env
 	source env/bin/activate
 	pip3 install requeriment.txt
     python3 main.py
