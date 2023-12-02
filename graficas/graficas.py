@@ -9,3 +9,4 @@ def generar_pychart():
     ax.pie(valores, labels=etiquetas)
     plt.savefig('pie.png')
     plt.close()
+    
