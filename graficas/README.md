@@ -4,7 +4,9 @@ Te dejo un archivo llamado requirement.txt, en este, se encuentran las versiones
 
 
 Para correr el entorno virtual debes hacer lo siguiente
+
     cd app
+    
     python3 main.py
 
 Para la parte de APP debes hacer lo siguiente
